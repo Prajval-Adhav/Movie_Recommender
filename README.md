@@ -1,11 +1,11 @@
 ## Movie Recommendation system trained using the MovieLens dataset
 
-## You have to run the python file, and give the liked movie's title as an argument:__
+ You have to run the python file, and give the liked movie's title as an argument:__
 ```
 $ python rmovie.py "MOVIE TITLE"
 ```
 
-## You can also specify the year in which the movie was released, in this case, you have to put the year in brackets in the same first argument:
+You can also specify the year in which the movie was released, in this case, you have to put the year in brackets in the same first argument:
 ```
 $ python rmovie.py "MOVIE TITLE (YEAR)"
 ```
@@ -15,7 +15,7 @@ $ python rmovie.py "MOVIE TITLE (YEAR)"
 * The word "the" is always ignored
 * You can put the year of the movie inside brackets like: (2020)
 
-## Valid request examples:
+ Valid request examples:
 
 ```
 $ python rmovie.py "Shawshank Redemption"
